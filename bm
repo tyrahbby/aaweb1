@@ -1,0 +1,2 @@
+//di servlet
+response.setHeader("Accept-Language", "Bahasa Malaysia");
